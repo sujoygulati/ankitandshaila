@@ -11,9 +11,6 @@ body {
 	font-weight: 100;
 }
 
-tm-site-name {
-		font-size: 150px;
-}
 	
 a, button { transition: all 0.3s ease; }
 a {	color: #666; }
@@ -106,7 +103,7 @@ button:focus { outline: none; }
 }
 
 .tm-logo { margin-bottom: 30px; }
-.tm-site-name { margin-bottom: 40px; }
+.tm-site-name { margin-bottom: 40px; font-size: 19px;}
 .tm-intro-text { margin-bottom: 45px; }
 
 #tm-section-1,
