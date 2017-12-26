@@ -103,7 +103,8 @@ button:focus { outline: none; }
 }
 
 .tm-logo { margin-bottom: 30px; }
-.tm-site-name { margin-bottom: 40px; font-size: 150px;}
+.tm-site-name { margin-bottom: 40px; font-size: 150px; font-family: "Times New Roman", Georgia, Serif;
+}
 .tm-intro-text { margin-bottom: 45px; }
 
 #tm-section-1,
