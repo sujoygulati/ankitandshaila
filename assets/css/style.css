@@ -429,6 +429,17 @@ input:-ms-input-placeholder {
 	font-size: 70px; 
 	color: #4EA7FF;
 }
+
+.heading-content  h1{
+    
+    
+    font-weight: 500;
+    margin-bottom:20px;
+	font-family: 'Niconne', cursive;
+	font-size: 70px; 
+	color: #4EA7FF;
+}
+
 .heading-content  p{
     color:#212121;
     width: 35%;
@@ -731,6 +742,18 @@ background-attachment: fixed;
     margin-top:80px;
 }
 
+/*Other pages*/
+
+.mkc{ 
+	text-align: center;
+	color: #000 ;
+	font-family: 'playball', Cursive;
+}
+
+.mkc h1{ 
+	color: #4EA7FF; 
+	font-family: 'playball', Cursive;
+}
 /*For Latest Twitter Area*/
 
 .twitter-content h5{
