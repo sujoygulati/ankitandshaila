@@ -516,7 +516,7 @@ input:-ms-input-placeholder {
 background-attachment: fixed;
 	position: relative ;
 	background-position: left top;
-	background-size: 100% 500px;
+	background-size: 100% 600px;
 	color: white;
 	display: -webkit-flex;
 	display: -ms-flexbox;
