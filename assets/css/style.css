@@ -512,7 +512,7 @@ input:-ms-input-placeholder {
 /*For Home Section*/
 
 .home{
-    background: url(../images/ankit3.jpeg) no-repeat center;
+    background: url(../images/home.jpeg) no-repeat center;
 background-attachment: fixed;
 	position: relative ;
 	background-position: left top;
